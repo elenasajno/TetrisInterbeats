@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Elena"
+  given-names: "Sajno"
+  orcid: "ttps://orcid.org/0000-0002-9621-8981"
+- family-names: "Samantha"
+  given-names: "Chen"
+  orcid: "https://orcid.org/0000-0003-1159-0467"
+title: "TetrisInterBeats"
+version: 1.0
+doi: 10.5281/zenodo.1234
+date-released: 2024-07-11
+url: "https://github.com/elenasajno/TetrisInterbeats"
+preferred-citation:
+  type: article
+    authors:
+  - family-names: "Elena"
+    given-names: "Sajno"
+    orcid: "ttps://orcid.org/0000-0002-9621-8981"
+  - family-names: "Samantha"
+    given-names: "Chen"
+    orcid: "https://orcid.org/0000-0003-1159-0467"
+  - family-names: "Federico"
+    given-names: "Dagostin"
+    orcid: "https://orcid.org/0009-0006-9406-6343"
+  - family-names: "De Gaspari"
+    given-names: "Stefano"
+    orcid: "https://orcid.org/0009-0006-6083-2134"
+  - family-names: "Pupillo"
+    given-names: "Chiara"
+    orcid: "https://orcid.org/0009-0007-5764-1211"
+  - family-names: "Riva"
+    given-names: "Giuseppe"
+    orcid: "https://orcid.org/0000-0003-3657-106X"
+// journal: "Easy chair preprint"
+//  month: 9
+//  start: 1 # First page number
+//  end: 10 # Last page number
+  title: "Democratizing Psychophysiological Research: Leveraging Open Resources for Experimental Settings and Data Analysis of Flow, Engagement, and Performance."
+//  issue: 1
+//  volume: 1
+  year: 2024
